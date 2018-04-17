@@ -25,10 +25,10 @@
 
 
 ## Purpose
-Use _solidary contracts_ + _transparent data_ + _good-habit incentivizing_ to __strengthen__ consumer-producer relationships, __shorten__ healthy food supply chains, and __grow__ natural-farming communities organically!
+Use _solidity contracts_ + _transparent data_ + _incentivize good habits_ in order to __strengthen__ consumer-producer relationships, __shorten__ healthy food supply chains, and __grow__ natural-farming communities organically!
 
 ## About me
-I have been programming for more than 20 years, had been an academy researcher in Natural Language Processing, then lead/developed many web/mobile/game softwares. I retired at the age of 35, went to country-side and learning to be a farmer. Reason: _I sat too much in front of computers and it was not good for my health_.
+I have been programming for more than 20 years, had been an academy researcher in Natural Language Processing, then lead/developed many web/mobile/game softwares. I retired at the age of 35, went to country-side and learned to be a farmer. Reason: _I sat too much in front of computers and it was not good for my health_.
 
 ### Why am I doing this?
 The more I know about mordern farming/agriculture, the more I don't belive it won't solve both environment reservation and food secure problems
@@ -55,7 +55,7 @@ Teikei - [the origin](http://urgenci.net/csa-history/) of today worldwide CSA mo
 **_I will not do anything that violate or drift away from those core principles_**
 
 ## Why Community Supported Agriculture?
-Because it's a solution to secure healthy food sources, shorten food supply-chains and encourage farmers follow natural-farming methods that already be implemented in Japan (since 1973), US (1980s), France (2001) and many other countries.
+Because it's a solution to secure healthy food sources, shorten food supply-chains and encourage farmers follow natural-farming methods that are already implemented in Japan (since 1973), US (1980s), France (2001) and many other countries.
 
 ## What's CSA?
 > "Community supported agriculture (CSA) is a partnership between farmers and consumers in which the **responsibilities**, **risks** and **rewards** of farming are shared." [[1]](https://communitysupportedagriculture.org.uk/what-is-csa/)
@@ -74,7 +74,7 @@ The advantage of blockchain can bring to CSA could be:
 
 * Use smart contracts to keep everything fair for all stakeholders automatically and exactly as agreed-from-beginning without worrying that people will forget or make mistake will forget to follow the rules (remove third-party coordinators/arbitrators)
 
-* Use smart contracts to incentive good behaviors. For example, I would love to see consumers and producers meeting face-to-face so I wrote the contract to make sure they come to a restaurant together every 3 month, having dinning there and let the contract take care of the payment (e.g require restaurant owner/consumer/producer to co-sign the transaction). Otherwise the contract will use the money preserved for other purpose and consumer-producer have no benefit from it.
+* Use smart contracts to incentivize good behaviors. For example, I would love to see consumers and producers meeting face-to-face so I wrote the contract to make sure they come to a restaurant together every 3 month, having dinning there and let the contract take care of the payment (e.g require restaurant owner/consumer/producer to co-sign the transaction). Otherwise the contract will use the money preserved for other purpose and consumer-producer have no benefit from it.
 
 We can come up with unlimited, creative solutions to strengthen **solidary** and **incentive good habits**. It's the most fun of writing the smart contracts I guest.
 
@@ -115,7 +115,7 @@ For example, while driving a car, I regularly check (g) remain gasoline, (v) cur
 
 If I'm not driving, those metrics seem to irrelevant or even nonsense. For example, why-the-hell I need to check (g) gasoline while walking? :)
 
-And if I'm driving a bus and you are a passenger. You may not care if I exceed the allowed speed or not, you may care the most if I will take you to the right place, on the right time ...
+And if I'm driving a bus and you are a passenger, you may not care if I exceed the allowed speed or not, you may care the most if I will take you to the right place, on the right time ...
 
 ### Metrics for CSA
 See [metrics.md](./metrics.md)
